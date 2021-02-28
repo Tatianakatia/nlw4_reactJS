@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="../workout/public/nlw4_workout_neverstoplearing.png" 
+  <img src="nlw4_reactJS/workout/public/nlw4_workout_neverstoplearing.png" 
    width="350" title="hover text">
 </p>
 
