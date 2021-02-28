@@ -1,4 +1,7 @@
-<img src="nlw4_workout_neverstoplearing.png">
+
+<p align="center">
+  <img src="nlw4_workout_neverstoplearing.png" width="350" title="hover text">
+</p>
 
 ## PROJECT WORKOUT - NLW4 (NEXT LEVEL WEEK 4 )
 

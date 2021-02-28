@@ -11,8 +11,16 @@
 .container h1 {
   display: flex;
   text-align: center;
+  font-size: 50px;
   margin-left: 10rem;
-  margin-bottom: 4rem;
+  margin-bottom: 0.5rem;
+  color: var(--name-project)
+}
+.container h3 {
+  display: flex;
+  text-align: center;
+  margin-left: 15rem;
+  margin-bottom: 2rem;
   color: var(--name-project)
 }
 

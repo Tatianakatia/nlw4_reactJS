@@ -31,7 +31,8 @@ export default function Home(props: HomeProps) {
             <title> Start | workout </title>
           </Head>
 
-          <h1>Workout - Move to the next level - #NLW4</h1>
+          <h1>Workout - Keep moving</h1>
+          <h3> Rocketseat taking us to the next level - #NLW4</h3>
           <ExperienceBar />
 
           <CountdownProvider>
